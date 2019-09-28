@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fastdfs-client-java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall-item-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ymall-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ymall-cart-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ymall-cart-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ymall-common-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ymall-item-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ymall-manage-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ymall-manage-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ymall-order-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ymall-order-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ymall-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ymall-passport-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ymall-payment" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ymall-search-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ymall-search-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ymall-seckill" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ymall-service-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ymall-service-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ymall-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ymall-user-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ymall-web-util" charset="UTF-8" />
+  </component>
+</project>
